@@ -1,0 +1,9 @@
+D:\EATestProject\EATestProject\EATestProject\bin\Debug\netcoreapp3.1\EAAutoFramework.deps.json
+D:\EATestProject\EATestProject\EATestProject\bin\Debug\netcoreapp3.1\EAAutoFramework.dll
+D:\EATestProject\EATestProject\EATestProject\bin\Debug\netcoreapp3.1\EAAutoFramework.pdb
+D:\EATestProject\EATestProject\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\EATestProject\EATestProject\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfoInputs.cache
+D:\EATestProject\EATestProject\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.AssemblyInfo.cs
+D:\EATestProject\EATestProject\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.csproj.CoreCompileInputs.cache
+D:\EATestProject\EATestProject\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.dll
+D:\EATestProject\EATestProject\EATestProject\obj\Debug\netcoreapp3.1\EAAutoFramework.pdb
