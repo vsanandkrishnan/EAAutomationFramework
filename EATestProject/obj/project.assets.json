@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EATestProject\\EATestProject\\EATestProject\\EAAutoFramework.csproj",
+      "projectUniqueName": "C:\\Users\\AnandKrishnan\\Documents\\GitHub\\EAAutomationFramework\\EATestProject\\EAAutoFramework.csproj",
       "projectName": "EAAutoFramework",
-      "projectPath": "D:\\EATestProject\\EATestProject\\EATestProject\\EAAutoFramework.csproj",
+      "projectPath": "C:\\Users\\AnandKrishnan\\Documents\\GitHub\\EAAutomationFramework\\EATestProject\\EAAutoFramework.csproj",
       "packagesPath": "C:\\Users\\AnandKrishnan\\.nuget\\packages\\",
-      "outputPath": "D:\\EATestProject\\EATestProject\\EATestProject\\obj\\",
+      "outputPath": "C:\\Users\\AnandKrishnan\\Documents\\GitHub\\EAAutomationFramework\\EATestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AnandKrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
